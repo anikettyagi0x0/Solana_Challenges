@@ -20,7 +20,7 @@ const connection = new Connection(clusterApiUrl("devnet"), "confirmed");
 console.log("Public Key of the generated keypair", publicKey);
 
 // Get the wallet balance from a given private key
-const getWalletBalance = async () => {
+const getWalletBalance = async (accountaddress) => {
     try {
         // Connect to the Devnet
         const connection = new Connection(clusterApiUrl("devnet"), "confirmed");
@@ -37,7 +37,7 @@ const getWalletBalance = async () => {
     }
 };
 
-const airDropSol = async () => {
+const airDropSol = async (accountaddress) => {
     try {
         // Connect to the Devnet and make a wallet from privateKey
         const connection = new Connection(clusterApiUrl("devnet"), "confirmed");
