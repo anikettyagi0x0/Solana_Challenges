@@ -1,8 +1,8 @@
 # Transactions in Action Challenge
 
 Challenge_Task: Take a look at a Failed tx and a Successful tx and share a few key differences between them: 
-(Failed TX) [https://explorer.solana.com/tx/3f5385da6aJ86dPXdmZHUZWccBLsi24fwpZhA7ST2nYBZ95XCyG6pCjhyXXZLjqhsSzDxdHxzoi13Yrx4UwEg3J2]  
-(Successful TX) [https://explorer.solana.com/tx/5qAvAYuACKSLRgewTyCWBqSHTrGg73B61Ao6V2HamZsG1imuZRgQBExbkqTVz8WxU98JTjAzBMGrUvUz2B17yGyQ]
+[Failed TX](https://explorer.solana.com/tx/3f5385da6aJ86dPXdmZHUZWccBLsi24fwpZhA7ST2nYBZ95XCyG6pCjhyXXZLjqhsSzDxdHxzoi13Yrx4UwEg3J2)
+[Successful TX](https://explorer.solana.com/tx/5qAvAYuACKSLRgewTyCWBqSHTrGg73B61Ao6V2HamZsG1imuZRgQBExbkqTVz8WxU98JTjAzBMGrUvUz2B17yGyQ)
 
 
 From the provided information, we have two transactions, one that failed and one that succeeded. Let's examine the key differences between the failed transaction and the successful transaction:
